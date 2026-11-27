@@ -1,0 +1,8 @@
+{
+  "name": "Kimura Sushi — Official Menu & Ordering",
+  "description": "Kimura Sushi — Mansoura & Ras El Bar. Official menu featuring Combo Selection, KIMURA NOODLES, Special Pieces, and Old Menu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
